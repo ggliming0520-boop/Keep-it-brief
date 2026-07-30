@@ -1,0 +1,7 @@
+interface:
+  display_name: "Keep it brief"
+  short_description: "按步骤梳理想法，暂存灵感，防止对话发散和过早行动。"
+  default_prompt: "Use $keep-it-brief to help me organize ideas step by step without tangents."
+
+policy:
+  allow_implicit_invocation: true
